@@ -1,0 +1,98 @@
+{
+  "Global":
+    {
+      "member_center": "會員中心"
+    },
+  "Header":
+    {
+      "login": "登入",
+      "sign_up": "註冊" 
+    },
+  "Menu":
+    {
+      "my_account": "我的帳戶",
+      "profile": "基本資料管理",
+      "manage_users": "帳號管理",
+      "change_password": "變更密碼",
+      "subscriptions": "訂閱清單",
+      "stored_points": "儲值點數",
+      "billing": "費用明細",
+      "vouchers": "優惠卷",
+      "my_reviews": "我的評價",
+      "notifications": "通知總覽"
+    },
+  "Login": 
+    {
+      "login": "會員登入",
+      "forgot_password": "忘記密碼",
+      "new_to__app_market": "還不是會員嗎?",
+      "create_a_new_account": "立即註冊",
+      "password": "密碼"
+    },
+    "Register":
+      {
+        "back": "上一頁",
+        "next": "下一頁",
+        "create_account": "設定帳號",
+        "company_info": "填寫公司資訊",
+        "member_info": "填寫聯絡資訊",
+        "success": "註冊成功",
+        "company_name": "公司名稱",
+        "company_name_english": "公司英文名稱",
+        "tax_id_number": "統一編號",
+        "duns_number": "鄧白氏環球編碼",
+        "company_scale": "公司規模",
+        "industry": "產業別",
+        "company_address": "公司地址",
+        "country_region": "國家/地區",
+        "state_district": "州/省",
+        "city": "城市",
+        "postal_code": "郵遞區號",
+        "address": "詳細地址",
+        "company_representative": "公司代表人",
+        "first_name": "名字",
+        "last_name": "姓氏",
+        "position": "職稱",
+        "mobile_phone": "行動電話",
+        "phone": "電話號碼",
+        "ext_number": "分機號碼",
+        "language": "慣用語言",
+        "da_ming": "大明",
+        "wang": "王",
+        "primary_contact": "主要聯絡人"
+      },
+    "Subscription":
+      {
+        "all": "全部",
+        "applying": "申請中",
+        "quoted": "已報價",
+        "pending_payment": "待付款",
+        "paid": "已付款",
+        "activated": "已啟用",
+        "terminated": "已停用",
+        "cancelled": "已取消",
+        "search": "搜尋",
+        "search_your_subscription": "搜尋您的訂閱",
+        "Card": 
+          {
+            "authentication_settings": "用戶權限管理",
+            "view_billing_information": "查看費用明細",
+            "subscribe": "立即訂閱",
+            "cancel_subscription": "取消訂閱",
+            "activated": "已啟用",
+            "by": "提供商:",
+            "manage_on_provider": "前往服務",
+            "back_to_subscription": "返回",
+            "actions": "操作"
+          },
+        "Detail": 
+          {
+            "overview": "總覽",
+            "pricing": "定價",
+            "details_and_support": "詳細資料與支援",
+            "ratings_and_reviews": "評分與評論",
+            "product_overview": "產品總覽",
+            "preview": "預覽"
+          }
+      }
+}

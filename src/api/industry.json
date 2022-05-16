@@ -1,0 +1,2293 @@
+[
+    {
+      "level": 1,
+      "value": "A",
+      "industry_name": "農、林、漁、牧業",
+      "label": "Agriculture, Forestry, Fishing, Animal Husbandry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "A01",
+          "industry_name": "農、牧業",
+          "label": "Agriculture and animal husbandry",
+          "parent_value": "A",
+          "children": [
+            {
+              "level": 3,
+              "value": "A0101",
+              "industry_name": "農作物栽培業",
+              "label": "Crop Cultivation",
+              "parent_value": "A01",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "A0102",
+              "industry_name": "畜牧業",
+              "label": "animal husbandry",
+              "parent_value": "A01",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "A0103",
+              "industry_name": "農事及畜牧服務業",
+              "label": "Agriculture and Livestock Services",
+              "parent_value": "A01",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "A02",
+          "industry_name": "林業",
+          "label": "forestry",
+          "parent_value": "A",
+          "children": [
+            {
+              "level": 3,
+              "value": "A0200",
+              "industry_name": "林業",
+              "label": "forestry",
+              "parent_value": "A02",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "A03",
+          "industry_name": "漁業",
+          "label": "fishery",
+          "parent_value": "A",
+          "children": [
+            {
+              "level": 3,
+              "value": "A0301",
+              "industry_name": "漁撈業",
+              "label": "fishing industry",
+              "parent_value": "A03",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "A0302",
+              "industry_name": "水產養殖業",
+              "label": "aquaculture",
+              "parent_value": "A03",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "B",
+      "industry_name": "礦業及土石採取業",
+      "label": "Mining and earth-rock mining industry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "B05",
+          "industry_name": "石油及天然氣礦業",
+          "label": "Oil and Gas Mining",
+          "parent_value": "B",
+          "children": [
+            {
+              "level": 3,
+              "value": "B0500",
+              "industry_name": "石油及天然氣礦業",
+              "label": "Oil and Gas Mining",
+              "parent_value": "B05",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "B06",
+          "industry_name": "砂、石採取及其他礦業",
+          "label": "Sand, stone mining and other mining",
+          "parent_value": "B",
+          "children": [
+            {
+              "level": 3,
+              "value": "B0600",
+              "industry_name": "砂、石採取及其他礦業",
+              "label": "Sand, stone mining and other mining",
+              "parent_value": "B06",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "C",
+      "industry_name": "製造業",
+      "label": "manufacturing",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "C08",
+          "industry_name": "食品及飼品製造業",
+          "label": "Food and Feed Manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C0801",
+              "industry_name": "肉類加工及保藏業",
+              "label": "Meat Processing and Preservation Industry",
+              "parent_value": "C08",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0802",
+              "industry_name": "水產加工及保藏業",
+              "label": "Aquatic product processing and preservation industry",
+              "parent_value": "C08",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0803",
+              "industry_name": "蔬果加工及保藏業",
+              "label": "Fruit and vegetable processing and preservation industry",
+              "parent_value": "C08",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0804",
+              "industry_name": "動植物油脂製造業",
+              "label": "Animal and vegetable oil manufacturing",
+              "parent_value": "C08",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0805",
+              "industry_name": "乳品製造業",
+              "label": "Dairy Manufacturing",
+              "parent_value": "C08",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0806",
+              "industry_name": "碾榖、磨粉及澱粉製品製造業",
+              "label": "Milling, milling and starch products manufacturing",
+              "parent_value": "C08",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0807",
+              "industry_name": "動物飼品製造業",
+              "label": "animal feed manufacturing",
+              "parent_value": "C08",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0809",
+              "industry_name": "其他食品製造業",
+              "label": "Other food manufacturing",
+              "parent_value": "C08",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C09",
+          "industry_name": "飲料製造業",
+          "label": "Beverage Manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C0901",
+              "industry_name": "酒精飲料製造業",
+              "label": "Alcoholic Beverage Manufacturing",
+              "parent_value": "C09",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C0902",
+              "industry_name": "非酒精飲料製造業",
+              "label": "Non-Alcoholic Beverage Manufacturing",
+              "parent_value": "C09",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C10",
+          "industry_name": "菸草製造業",
+          "label": "Tobacco manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1000",
+              "industry_name": "菸草製造業",
+              "label": "Tobacco manufacturing",
+              "parent_value": "C10",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C11",
+          "industry_name": "紡織業",
+          "label": "textile industry",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1101",
+              "industry_name": "紡紗業",
+              "label": "spinning industry",
+              "parent_value": "C11",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1102",
+              "industry_name": "織布業",
+              "label": "weaving industry",
+              "parent_value": "C11",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1103",
+              "industry_name": "不織布業",
+              "label": "Nonwovens",
+              "parent_value": "C11",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1104",
+              "industry_name": "染整業",
+              "label": "Dyeing and finishing industry",
+              "parent_value": "C11",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1105",
+              "industry_name": "紡織品製造業",
+              "label": "Textile Manufacturing",
+              "parent_value": "C11",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C12",
+          "industry_name": "成衣及服飾品製造業",
+          "label": "Garment and Apparel Manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1201",
+              "industry_name": "成衣製造業",
+              "label": "Garment Manufacturing",
+              "parent_value": "C12",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1203",
+              "industry_name": "服飾品製造業",
+              "label": "Apparel Manufacturing",
+              "parent_value": "C12",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C13",
+          "industry_name": "皮革、毛皮及其製品製造業",
+          "label": "Manufacturing of leather, fur and its products",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1300",
+              "industry_name": "皮革、毛皮及其製品製造業",
+              "label": "Manufacturing of leather, fur and its products",
+              "parent_value": "C13",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C14",
+          "industry_name": "木竹製品製造業",
+          "label": "Wood and Bamboo Products Manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1400",
+              "industry_name": "木竹製品製造業",
+              "label": "Wood and Bamboo Products Manufacturing",
+              "parent_value": "C14",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C15",
+          "industry_name": "紙漿、紙及紙製品製造業",
+          "label": "Pulp, paper and paper products manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1501",
+              "industry_name": "紙漿、紙及紙板製造業",
+              "label": "Pulp, paper and board manufacturing",
+              "parent_value": "C15",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1502",
+              "industry_name": "瓦楞紙板及紙容器製造業",
+              "label": "Corrugated cardboard and paper container manufacturing",
+              "parent_value": "C15",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1509",
+              "industry_name": "其他紙製品製造業",
+              "label": "Other paper product manufacturing",
+              "parent_value": "C15",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C16",
+          "industry_name": "印刷及資料儲存媒體複製業",
+          "label": "Printing and data storage media reproduction industry",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1600",
+              "industry_name": "印刷及資料儲存媒體複製業",
+              "label": "Printing and data storage media reproduction industry",
+              "parent_value": "C16",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C17",
+          "industry_name": "石油及煤製品製造業",
+          "label": "Petroleum and coal products manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1700",
+              "industry_name": "石油及煤製品製造業",
+              "label": "Petroleum and coal products manufacturing",
+              "parent_value": "C17",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C18",
+          "industry_name": "化學原材料、肥料、氮化合物、塑橡膠原料及人造纖維製造業",
+          "label": "Manufacturing of chemical raw materials, fertilizers, nitrogen compounds, plastic and rubber raw materials and man-made fibers",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1801",
+              "industry_name": "化學原材料製造業",
+              "label": "Chemical raw material manufacturing",
+              "parent_value": "C18",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1803",
+              "industry_name": "肥料及氮化合物製造業",
+              "label": "Fertilizer and Nitrogen Compound Manufacturing",
+              "parent_value": "C18",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1804",
+              "industry_name": "塑膠及合成橡膠原料製造業",
+              "label": "Plastic and synthetic rubber raw material manufacturing",
+              "parent_value": "C18",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1805",
+              "industry_name": "人造纖維製造業",
+              "label": "Man-made fiber manufacturing",
+              "parent_value": "C18",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C19",
+          "industry_name": "其他化學製品製造業",
+          "label": "Other chemical manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C1901",
+              "industry_name": "農藥及環境用藥製造業",
+              "label": "Pesticide and Environmental Medicine Manufacturing",
+              "parent_value": "C19",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1902",
+              "industry_name": "塗料、染料及顏料製造業",
+              "label": "Paint, Dyestuff and Pigment Manufacturing",
+              "parent_value": "C19",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1903",
+              "industry_name": "清潔用品及化粧品製造業",
+              "label": "Cleaning supplies and cosmetics manufacturing",
+              "parent_value": "C19",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C1909",
+              "industry_name": "未分類其他化學製品製造業",
+              "label": "Other chemical manufacturing, not classified",
+              "parent_value": "C19",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C20",
+          "industry_name": "藥品及醫用化學製品製造業",
+          "label": "Pharmaceutical and Medical Chemicals Manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2000",
+              "industry_name": "藥品及醫用化學製品製造業",
+              "label": "Pharmaceutical and Medical Chemicals Manufacturing",
+              "parent_value": "C20",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C21",
+          "industry_name": "橡膠製品製造業",
+          "label": "Rubber product manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2100",
+              "industry_name": "橡膠製品製造業",
+              "label": "Rubber product manufacturing",
+              "parent_value": "C21",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C22",
+          "industry_name": "塑膠製品製造業",
+          "label": "Plastic product manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2200",
+              "industry_name": "塑膠製品製造業",
+              "label": "Plastic product manufacturing",
+              "parent_value": "C22",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C23",
+          "industry_name": "非金屬礦物製品製造業",
+          "label": "Manufacturing of non-metallic mineral products",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2301",
+              "industry_name": "玻璃及其製品製造業",
+              "label": "Glass and its products manufacturing",
+              "parent_value": "C23",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2302",
+              "industry_name": "耐火、黏土建材及其他陶瓷製品製造業",
+              "label": "Refractory, clay building materials and other ceramic products manufacturing",
+              "parent_value": "C23",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2303",
+              "industry_name": "水泥及其製品製造業",
+              "label": "Cement and its products manufacturing",
+              "parent_value": "C23",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2304",
+              "industry_name": "石材製品製造業",
+              "label": "Stone product manufacturing",
+              "parent_value": "C23",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2309",
+              "industry_name": "其他非金屬礦物製品製造業",
+              "label": "Manufacturing of other non-metallic mineral products",
+              "parent_value": "C23",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C24",
+          "industry_name": "基本金屬製造業",
+          "label": "Base Metal Manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2401",
+              "industry_name": "鋼鐵製造業",
+              "label": "steel manufacturing",
+              "parent_value": "C24",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2402",
+              "industry_name": "鋁製造業",
+              "label": "Aluminum Manufacturing",
+              "parent_value": "C24",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2403",
+              "industry_name": "銅製造業",
+              "label": "copper manufacturing",
+              "parent_value": "C24",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2409",
+              "industry_name": "其他基本金屬製造業",
+              "label": "Other base metal manufacturing",
+              "parent_value": "C24",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C25",
+          "industry_name": "金屬製品製造業",
+          "label": "Metal Products Manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2501",
+              "industry_name": "金屬刀具、手工具及模具製造業",
+              "label": "Metal Knives, Hand Tools and Die Manufacturing",
+              "parent_value": "C25",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2502",
+              "industry_name": "金屬結構及建築組件製造業",
+              "label": "Manufacturing of metal structures and building components",
+              "parent_value": "C25",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2503",
+              "industry_name": "金屬容器製造業",
+              "label": "Metal container manufacturing",
+              "parent_value": "C25",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2504",
+              "industry_name": "金屬加工處理業",
+              "label": "Metal processing industry",
+              "parent_value": "C25",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2509",
+              "industry_name": "其他金屬製品製造業",
+              "label": "Other metal products manufacturing",
+              "parent_value": "C25",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C26",
+          "industry_name": "電子零組件製造業",
+          "label": "Electronic component manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2601",
+              "industry_name": "半導體製造業",
+              "label": "Semiconductor Manufacturing",
+              "parent_value": "C26",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2602",
+              "industry_name": "被動電子元件製造業",
+              "label": "Passive Electronic Components Manufacturing",
+              "parent_value": "C26",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2603",
+              "industry_name": "印刷電路板製造業",
+              "label": "Printed Circuit Board Manufacturing",
+              "parent_value": "C26",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2604",
+              "industry_name": "光電材料及元件製造業",
+              "label": "Optoelectronic materials and components manufacturing",
+              "parent_value": "C26",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2609",
+              "industry_name": "其他電子零組件製造業",
+              "label": "Other electronic components manufacturing",
+              "parent_value": "C26",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C27",
+          "industry_name": "電腦、電子產品及光學製品製造業",
+          "label": "Computer, electronic products and optical products manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2701",
+              "industry_name": "電腦及其週邊設備製造業",
+              "label": "Computer and peripheral equipment manufacturing",
+              "parent_value": "C27",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2702",
+              "industry_name": "通訊傳播設備製造業",
+              "label": "Communication equipment manufacturing",
+              "parent_value": "C27",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2703",
+              "industry_name": "視聽電子產品製造業",
+              "label": "Audiovisual electronics manufacturing",
+              "parent_value": "C27",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2704",
+              "industry_name": "資料儲存媒體製造業",
+              "label": "Data storage media manufacturing",
+              "parent_value": "C27",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2705",
+              "industry_name": "量測、導航、控制設備及鐘錶製造業",
+              "label": "Measurement, navigation, control equipment and watch manufacturing",
+              "parent_value": "C27",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2706",
+              "industry_name": "輻射及電子醫學設備製造業",
+              "label": "Radiation and Electromedical Equipment Manufacturing",
+              "parent_value": "C27",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2707",
+              "industry_name": "光學儀器及設備製造業",
+              "label": "Optical instrument and equipment manufacturing",
+              "parent_value": "C27",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C28",
+          "industry_name": "電力設備及配備製造業",
+          "label": "Power equipment and equipment manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2801",
+              "industry_name": "發電、輸電及配電機械製造業",
+              "label": "Power generation, transmission and distribution machinery manufacturing",
+              "parent_value": "C28",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2802",
+              "industry_name": "電池製造業",
+              "label": "battery manufacturing",
+              "parent_value": "C28",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2803",
+              "industry_name": "電線及配線器材製造業",
+              "label": "Wire and wiring equipment manufacturing",
+              "parent_value": "C28",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2804",
+              "industry_name": "照明設備及配備製造業",
+              "label": "Lighting equipment and equipment manufacturing",
+              "parent_value": "C28",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2805",
+              "industry_name": "家用電器製造業",
+              "label": "Home Appliance Manufacturing",
+              "parent_value": "C28",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2809",
+              "industry_name": "其他電力設備及配備製造業",
+              "label": "Other electrical equipment and equipment manufacturing",
+              "parent_value": "C28",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C29",
+          "industry_name": "機械設備製造業",
+          "label": "Machinery and equipment manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C2901",
+              "industry_name": "金屬加工用機械設備製造業",
+              "label": "Manufacturing of machinery and equipment for metal processing",
+              "parent_value": "C29",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2902",
+              "industry_name": "其他專用機械設備製造業",
+              "label": "Other special machinery and equipment manufacturing",
+              "parent_value": "C29",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C2903",
+              "industry_name": "通用機械設備製造業",
+              "label": "General machinery and equipment manufacturing",
+              "parent_value": "C29",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C30",
+          "industry_name": "汽車及其零件製造業",
+          "label": "Automobile and parts manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C3001",
+              "industry_name": "汽車製造業",
+              "label": "Automotive Manufacturing",
+              "parent_value": "C30",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3002",
+              "industry_name": "車體製造業",
+              "label": "car body manufacturing",
+              "parent_value": "C30",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3003",
+              "industry_name": "汽車零件製造業",
+              "label": "Auto parts manufacturing",
+              "parent_value": "C30",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C31",
+          "industry_name": "其他運輸工具及其零件製造業",
+          "label": "Manufacturing of other means of transport and their parts",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C3101",
+              "industry_name": "船舶及浮動設施製造業",
+              "label": "Ship and floating facility manufacturing",
+              "parent_value": "C31",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3102",
+              "industry_name": "機車及其零件製造業",
+              "label": "Locomotive and parts manufacturing",
+              "parent_value": "C31",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3103",
+              "industry_name": "自行車及其零件製造業",
+              "label": "Bicycle and parts manufacturing",
+              "parent_value": "C31",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3109",
+              "industry_name": "未分類其他運輸工具及其零件製造業",
+              "label": "Manufacturing of other means of transport and their parts, not classified",
+              "parent_value": "C31",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C32",
+          "industry_name": "家具製造業",
+          "label": "furniture manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C3201",
+              "industry_name": "非金屬家具製造業",
+              "label": "Non-metal furniture manufacturing",
+              "parent_value": "C32",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3202",
+              "industry_name": "金屬家具製造業",
+              "label": "Metal furniture manufacturing",
+              "parent_value": "C32",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C33",
+          "industry_name": "其他製造業",
+          "label": "Other manufacturing",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C3301",
+              "industry_name": "育樂用品製造業",
+              "label": "Sports goods manufacturing",
+              "parent_value": "C33",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3302",
+              "industry_name": "醫療器材及用品製造業",
+              "label": "Medical Equipment and Supplies Manufacturing",
+              "parent_value": "C33",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "C3309",
+              "industry_name": "未分類其他製造業",
+              "label": "Other manufacturing not classified",
+              "parent_value": "C33",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "C34",
+          "industry_name": "產業用機械設備維修及安裝業",
+          "label": "Maintenance and installation of industrial machinery and equipment",
+          "parent_value": "C",
+          "children": [
+            {
+              "level": 3,
+              "value": "C3400",
+              "industry_name": "產業用機械設備維修及安裝業",
+              "label": "Maintenance and installation of industrial machinery and equipment",
+              "parent_value": "C34",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "D",
+      "industry_name": "電力及燃氣供應業",
+      "label": "Electricity and Gas Supply Industry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "D35",
+          "industry_name": "電力及燃氣供應業",
+          "label": "Electricity and Gas Supply Industry",
+          "parent_value": "D",
+          "children": [
+            {
+              "level": 3,
+              "value": "D3501",
+              "industry_name": "電力供應業",
+              "label": "Electricity Supply Industry",
+              "parent_value": "D35",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "D3502",
+              "industry_name": "氣體燃料供應業",
+              "label": "Gas fuel supply industry",
+              "parent_value": "D35",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "D3503",
+              "industry_name": "蒸汽供應業",
+              "label": "Steam Supply Industry",
+              "parent_value": "D35",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "E",
+      "industry_name": "用水供應及污染整治業",
+      "label": "Water Supply and Pollution Remediation Industry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "E36",
+          "industry_name": "用水供應業",
+          "label": "water supply industry",
+          "parent_value": "E",
+          "children": [
+            {
+              "level": 3,
+              "value": "E3600",
+              "industry_name": "用水供應業",
+              "label": "water supply industry",
+              "parent_value": "E36",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "E37",
+          "industry_name": "廢水及污水處理業",
+          "label": "Wastewater and Sewage Treatment Industry",
+          "parent_value": "E",
+          "children": [
+            {
+              "level": 3,
+              "value": "E3700",
+              "industry_name": "廢水及污水處理業",
+              "label": "Wastewater and Sewage Treatment Industry",
+              "parent_value": "E37",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "E38",
+          "industry_name": "廢棄物清除、處理及資源回收處理業",
+          "label": "Waste removal, treatment and resource recycling industry",
+          "parent_value": "E",
+          "children": [
+            {
+              "level": 3,
+              "value": "E3801",
+              "industry_name": "廢棄物清除業",
+              "label": "Waste removal industry",
+              "parent_value": "E38",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "E3802",
+              "industry_name": "廢棄物處理業",
+              "label": "Waste treatment industry",
+              "parent_value": "E38",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "E3803",
+              "industry_name": "資源回收處理業",
+              "label": "Resource recycling and processing industry",
+              "parent_value": "E38",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "E39",
+          "industry_name": "污染整治業",
+          "label": "pollution control industry",
+          "parent_value": "E",
+          "children": [
+            {
+              "level": 3,
+              "value": "E3900",
+              "industry_name": "污染整治業",
+              "label": "pollution control industry",
+              "parent_value": "E39",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "F",
+      "industry_name": "營建工程業",
+      "label": "construction industry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "F41",
+          "industry_name": "建築工程業",
+          "label": "construction industry",
+          "parent_value": "F",
+          "children": [
+            {
+              "level": 3,
+              "value": "F4100",
+              "industry_name": "建築工程業",
+              "label": "construction industry",
+              "parent_value": "F41",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "F42",
+          "industry_name": "土木工程業",
+          "label": "Civil Engineering Industry",
+          "parent_value": "F",
+          "children": [
+            {
+              "level": 3,
+              "value": "F4201",
+              "industry_name": "道路工程業",
+              "label": "road engineering",
+              "parent_value": "F42",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "F4202",
+              "industry_name": "公用事業設施工程業",
+              "label": "Utilities engineering industry",
+              "parent_value": "F42",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "F4209",
+              "industry_name": "其他土木工程業",
+              "label": "Other civil engineering industry",
+              "parent_value": "F42",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "F43",
+          "industry_name": "專門營造業",
+          "label": "Specialized construction industry",
+          "parent_value": "F",
+          "children": [
+            {
+              "level": 3,
+              "value": "F4301",
+              "industry_name": "整地、基礎及結構工程業",
+              "label": "Site Preparation, Foundation and Structural Engineering",
+              "parent_value": "F43",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "F4302",
+              "industry_name": "庭園景觀工程業",
+              "label": "Garden Landscape Engineering Industry",
+              "parent_value": "F43",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "F4303",
+              "industry_name": "機電、管道及其他建築設備安裝業",
+              "label": "Electrical, plumbing and other construction equipment installation industry",
+              "parent_value": "F43",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "F4304",
+              "industry_name": "建物完工裝修工程業",
+              "label": "Building completion renovation works",
+              "parent_value": "F43",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "F4309",
+              "industry_name": "其他專門營造業",
+              "label": "Other specialized construction industry",
+              "parent_value": "F43",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "G",
+      "industry_name": "批發及零售業",
+      "label": "Wholesale and retail trade",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "G45",
+          "industry_name": "批發業",
+          "label": "Wholesale industry",
+          "parent_value": "G",
+          "children": [
+            {
+              "level": 3,
+              "value": "G4501",
+              "industry_name": "商品批發經紀業",
+              "label": "Commodity wholesale brokerage",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4502",
+              "industry_name": "綜合商品批發業",
+              "label": "General merchandise wholesale business",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4503",
+              "industry_name": "農產原料及活動物批發業",
+              "label": "Wholesale of agricultural raw materials and live animals",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4504",
+              "industry_name": "食品、飲料及菸草製品批發業",
+              "label": "Wholesale of food, beverages and tobacco products",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4505",
+              "industry_name": "布疋及服飾品批發業",
+              "label": "Wholesale of cloth and apparel",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4506",
+              "industry_name": "家用器具及用品批發業",
+              "label": "Wholesale of household appliances and supplies",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4507",
+              "industry_name": "藥品、醫療用品及化粧品批發業",
+              "label": "Pharmaceuticals, Medical Supplies and Cosmetics Wholesale Industry",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4508",
+              "industry_name": "文教育樂用品批發業",
+              "label": "Wholesale of cultural, educational and musical products",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4509",
+              "industry_name": "建材批發業",
+              "label": "Building materials wholesale industry",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4510",
+              "industry_name": "化學原材料及其製品批發業",
+              "label": "Wholesale of chemical raw materials and their products",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4511",
+              "industry_name": "燃料及相關產品批發業",
+              "label": "Wholesale of fuel and related products",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4512",
+              "industry_name": "機械器具批發業",
+              "label": "Wholesale of machinery and appliances",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4513",
+              "industry_name": "汽機車及其零配件、用品批發業",
+              "label": "Wholesale of automobiles and motorcycles and their spare parts and supplies",
+              "parent_value": "G45",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4514",
+              "industry_name": "其他專賣批發業",
+              "label": "Other Monopoly Wholesale Industry",
+              "parent_value": "G45",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "G47",
+          "industry_name": "零售業",
+          "label": "retail",
+          "parent_value": "G",
+          "children": [
+            {
+              "level": 3,
+              "value": "G4701",
+              "industry_name": "綜合商品零售業",
+              "label": "General merchandise retailing",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4702",
+              "industry_name": "食品、飲料及菸草製品零售業",
+              "label": "Food, Beverage and Tobacco Products Retailing",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4703",
+              "industry_name": "布疋及服飾品零售業",
+              "label": "Clothing and apparel retailing",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4704",
+              "industry_name": "家用器具及用品零售業",
+              "label": "Household Appliances and Supplies Retailing",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4705",
+              "industry_name": "藥品、醫療用品及化粧品零售業",
+              "label": "Pharmaceuticals, Medical Supplies and Cosmetics Retailing",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4706",
+              "industry_name": "文教育樂用品零售業",
+              "label": "Retail of cultural, educational and recreational products",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4707",
+              "industry_name": "建材零售業",
+              "label": "Building materials retail industry",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4708",
+              "industry_name": "燃料及相關產品零售業",
+              "label": "Retailing of fuel and related products",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4709",
+              "industry_name": "資訊及通訊設備零售業",
+              "label": "Information and Communication Equipment Retailing",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4710",
+              "industry_name": "汽機車及其零配件、用品零售業",
+              "label": "Retail of automobiles and motorcycles and their spare parts and supplies",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4711",
+              "industry_name": "其他專賣零售業",
+              "label": "Other specialty retail",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4712",
+              "industry_name": "零售攤販",
+              "label": "retail vendor",
+              "parent_value": "G47",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "G4713",
+              "industry_name": "其他非店面零售業",
+              "label": "Other non-store retail",
+              "parent_value": "G47",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "H",
+      "industry_name": "運輸及倉儲業",
+      "label": "Transportation and Warehousing",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "H49",
+          "industry_name": "陸上運輸業",
+          "label": "land transport industry",
+          "parent_value": "H",
+          "children": [
+            {
+              "level": 3,
+              "value": "H4901",
+              "industry_name": "鐵路運輸業",
+              "label": "rail transport",
+              "parent_value": "H49",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H4902",
+              "industry_name": "大眾捷運系統運輸業",
+              "label": "Mass Rapid Transit System Transportation Industry",
+              "parent_value": "H49",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H4903",
+              "industry_name": "汽車客運業",
+              "label": "Passenger car industry",
+              "parent_value": "H49",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H4904",
+              "industry_name": "汽車貨運業",
+              "label": "Car freight industry",
+              "parent_value": "H49",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H4909",
+              "industry_name": "其他陸上運輸業",
+              "label": "Other land transportation",
+              "parent_value": "H49",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "H50",
+          "industry_name": "水上運輸業",
+          "label": "water transport industry",
+          "parent_value": "H",
+          "children": [
+            {
+              "level": 3,
+              "value": "H5001",
+              "industry_name": "海洋水運業",
+              "label": "Ocean Shipping Industry",
+              "parent_value": "H50",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5002",
+              "industry_name": "內河及湖泊水運業",
+              "label": "Inland river and lake water transportation industry",
+              "parent_value": "H50",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "H51",
+          "industry_name": "航空運輸業",
+          "label": "Air transport industry",
+          "parent_value": "H",
+          "children": [
+            {
+              "level": 3,
+              "value": "H5100",
+              "industry_name": "航空運輸業",
+              "label": "Air transport industry",
+              "parent_value": "H51",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "H52",
+          "industry_name": "運輸輔助業",
+          "label": "Transportation Auxiliary Industry",
+          "parent_value": "H",
+          "children": [
+            {
+              "level": 3,
+              "value": "H5201",
+              "industry_name": "報關業",
+              "label": "Customs declaration",
+              "parent_value": "H52",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5202",
+              "industry_name": "船務代理業",
+              "label": "Shipping Agency",
+              "parent_value": "H52",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5203",
+              "industry_name": "貨運承攬業",
+              "label": "Freight contracting industry",
+              "parent_value": "H52",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5204",
+              "industry_name": "陸上運輸輔助業",
+              "label": "Auxiliary industry of land transportation",
+              "parent_value": "H52",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5205",
+              "industry_name": "水上運輸輔助業",
+              "label": "Water transport auxiliary industry",
+              "parent_value": "H52",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5206",
+              "industry_name": "航空運輸輔助業",
+              "label": "Air Transport Auxiliary Industry",
+              "parent_value": "H52",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5209",
+              "industry_name": "其他運輸輔助業",
+              "label": "Other transportation auxiliary industry",
+              "parent_value": "H52",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "H53",
+          "industry_name": "倉儲業",
+          "label": "Warehousing",
+          "parent_value": "H",
+          "children": [
+            {
+              "level": 3,
+              "value": "H5300",
+              "industry_name": "倉儲業",
+              "label": "Warehousing",
+              "parent_value": "H53",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "H54",
+          "industry_name": "郵政及快遞業",
+          "label": "Postal and Courier Industry",
+          "parent_value": "H",
+          "children": [
+            {
+              "level": 3,
+              "value": "H5401",
+              "industry_name": "郵政業",
+              "label": "postal industry",
+              "parent_value": "H54",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "H5402",
+              "industry_name": "快遞業",
+              "label": "express delivery",
+              "parent_value": "H54",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "I",
+      "industry_name": "住宿及餐飲業",
+      "label": "Accommodation and Catering Industry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "I55",
+          "industry_name": "住宿業",
+          "label": "Accommodation industry",
+          "parent_value": "I",
+          "children": [
+            {
+              "level": 3,
+              "value": "I5501",
+              "industry_name": "短期住宿業",
+              "label": "short-term accommodation",
+              "parent_value": "I55",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "I5509",
+              "industry_name": "其他住宿業",
+              "label": "Other accommodation industry",
+              "parent_value": "I55",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "I56",
+          "industry_name": "餐飲業",
+          "label": "Catering",
+          "parent_value": "I",
+          "children": [
+            {
+              "level": 3,
+              "value": "I5601",
+              "industry_name": "餐食業",
+              "label": "Catering industry",
+              "parent_value": "I56",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "I5602",
+              "industry_name": "外燴及團膳承包業",
+              "label": "Catering and group meal contracting industry",
+              "parent_value": "I56",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "I5603",
+              "industry_name": "飲料業",
+              "label": "Beverage Industry",
+              "parent_value": "I56",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "J",
+      "industry_name": "出版、影音製作、傳播及資通訊服務業",
+      "label": "Publishing, audio-visual production, dissemination and information and communication services",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "J58",
+          "industry_name": "出版業",
+          "label": "Publishing Industry",
+          "parent_value": "J",
+          "children": [
+            {
+              "level": 3,
+              "value": "J5801",
+              "industry_name": "新聞、雜誌、期刊、書籍及其他出版業",
+              "label": "News, magazines, journals, books and other publishing",
+              "parent_value": "J58",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "J5802",
+              "industry_name": "軟體出版業",
+              "label": "software publishing industry",
+              "parent_value": "J58",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "J59",
+          "industry_name": "影片及電視節目業；聲音錄製及音樂發行業",
+          "label": "Film and television programming industry, sound recording and music distribution industry",
+          "parent_value": "J",
+          "children": [
+            {
+              "level": 3,
+              "value": "J5901",
+              "industry_name": "影片及電視節目業",
+              "label": "Film and Television Programme Industry",
+              "parent_value": "J59",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "J5902",
+              "industry_name": "聲音錄製及音樂發行業",
+              "label": "Sound recording and music distribution industry",
+              "parent_value": "J59",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "J60",
+          "industry_name": "廣播、電視節目編排及傳播業",
+          "label": "Radio, television programming and communication industry",
+          "parent_value": "J",
+          "children": [
+            {
+              "level": 3,
+              "value": "J6001",
+              "industry_name": "廣播業",
+              "label": "broadcasting",
+              "parent_value": "J60",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "J6002",
+              "industry_name": "電視節目編排及傳播業",
+              "label": "Television programming and broadcasting",
+              "parent_value": "J60",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "J61",
+          "industry_name": "電信業",
+          "label": "Telecommunications",
+          "parent_value": "J",
+          "children": [
+            {
+              "level": 3,
+              "value": "J6100",
+              "industry_name": "電信業",
+              "label": "Telecommunications",
+              "parent_value": "J61",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "J62",
+          "industry_name": "電腦程式設計、諮詢及相關服務業",
+          "label": "Computer programming, consulting and related services",
+          "parent_value": "J",
+          "children": [
+            {
+              "level": 3,
+              "value": "J6200",
+              "industry_name": "電腦程式設計、諮詢及相關服務業",
+              "label": "Computer programming, consulting and related services",
+              "parent_value": "J62",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "value": "J63",
+          "industry_name": "資訊服務業",
+          "label": "Information service industry",
+          "parent_value": "J",
+          "children": [
+            {
+              "level": 3,
+              "value": "J6301",
+              "industry_name": "入口網站經營、資料處理、主機及網站代管服務業",
+              "label": "Portal operation, data processing, hosting and web hosting services",
+              "parent_value": "J63",
+              "children": []
+            },
+            {
+              "level": 3,
+              "value": "J6309",
+              "industry_name": "其他資訊服務業",
+              "label": "Other information services",
+              "parent_value": "J63",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "K",
+      "industry_name": "金融及保險業",
+      "label": "Finance and Insurance",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "K64",
+          "industry_name": "金融服務業",
+          "label": "Financial Services Industry",
+          "parent_value": "K",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "K65",
+          "industry_name": "保險業",
+          "label": "Insurance",
+          "parent_value": "K",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "K66",
+          "industry_name": "證券期貨及金融輔助業",
+          "label": "Securities and Futures and Financial Auxiliary Industry",
+          "parent_value": "K",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "L",
+      "industry_name": "不動產業",
+      "label": "real estate",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "L67",
+          "industry_name": "不動產開發業",
+          "label": "real estate development",
+          "parent_value": "L",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "L68",
+          "industry_name": "不動產經營及相關服務業",
+          "label": "Real estate management and related services",
+          "parent_value": "L",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "M",
+      "industry_name": "專業、科學及技術服務業",
+      "label": "Professional, scientific and technical services",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "M69",
+          "industry_name": "法律及會計服務業",
+          "label": "Legal and accounting services",
+          "parent_value": "M",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "M70",
+          "industry_name": "企業總管理機構及管理顧問業",
+          "label": "Enterprise general management organization and management consulting industry",
+          "parent_value": "M",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "M71",
+          "industry_name": "建築、工程服務及技術檢測、分析服務業",
+          "label": "Construction, engineering services and technical testing, analysis services",
+          "parent_value": "M",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "M72",
+          "industry_name": "研究發展服務業",
+          "label": "Research and development service industry",
+          "parent_value": "M",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "M73",
+          "industry_name": "廣告業及市場研究業",
+          "label": "Advertising and market research",
+          "parent_value": "M",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "M74",
+          "industry_name": "專門設計業",
+          "label": "Specialized design industry",
+          "parent_value": "M",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "M75",
+          "industry_name": "獸醫業",
+          "label": "Veterinary Industry",
+          "parent_value": "M",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "M76",
+          "industry_name": "其他專業、科學及技術服務業",
+          "label": "Other professional, scientific and technical services",
+          "parent_value": "M",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "N",
+      "industry_name": "支援服務業",
+      "label": "Support service industry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "N77",
+          "industry_name": "租賃業",
+          "label": "leasing industry",
+          "parent_value": "N",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "N78",
+          "industry_name": "人力仲介及供應業",
+          "label": "Manpower agency and supply industry",
+          "parent_value": "N",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "N79",
+          "industry_name": "旅行及相關服務業",
+          "label": "Travel and related services",
+          "parent_value": "N",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "N80",
+          "industry_name": "保全及偵探業",
+          "label": "Security and detective industry",
+          "parent_value": "N",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "N81",
+          "industry_name": "建築物及綠化服務業",
+          "label": "Building and Greening Services Industry",
+          "parent_value": "N",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "N82",
+          "industry_name": "行政支援服務業",
+          "label": "Administrative support service industry",
+          "parent_value": "N",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "O",
+      "industry_name": "公共行政及國防；強制性社會安全",
+      "label": "Public Administration and Defense, Mandatory Social Security",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "O83",
+          "industry_name": "公共行政及國防；強制性社會安全",
+          "label": "Public Administration and Defense, Mandatory Social Security",
+          "parent_value": "O",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "O84",
+          "industry_name": "國際組織及外國機構",
+          "label": "International Organizations and Foreign Institutions",
+          "parent_value": "O",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "P",
+      "industry_name": "教育業",
+      "label": "education industry",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "P85",
+          "industry_name": "教育業",
+          "label": "education industry",
+          "parent_value": "P",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "Q",
+      "industry_name": "醫療保健及社會工作服務業",
+      "label": "Healthcare and Social Work Services",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "Q86",
+          "industry_name": "醫療保健業",
+          "label": "Healthcare Industry",
+          "parent_value": "Q",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "Q87",
+          "industry_name": "居住型照顧服務業",
+          "label": "Residential care service industry",
+          "parent_value": "Q",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "Q88",
+          "industry_name": "其他社會工作服務業",
+          "label": "Other social work services",
+          "parent_value": "Q",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "R",
+      "industry_name": "藝術、娛樂及休閒服務業",
+      "label": "Arts, Entertainment and Leisure Services",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "R90",
+          "industry_name": "創作及藝術表演業",
+          "label": "Creative and Performing Arts",
+          "parent_value": "R",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "R91",
+          "industry_name": "圖書館、檔案保存、博物館及類似機構",
+          "label": "Libraries, archives, museums and similar institutions",
+          "parent_value": "R",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "R92",
+          "industry_name": "博弈業",
+          "label": "Gaming industry",
+          "parent_value": "R",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "R93",
+          "industry_name": "運動、娛樂及休閒服務業",
+          "label": "Sports, Recreation and Leisure Services",
+          "parent_value": "R",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "value": "S",
+      "industry_name": "其他服務業",
+      "label": "Other service industries",
+      "parent_value": "0",
+      "children": [
+        {
+          "level": 2,
+          "value": "S94",
+          "industry_name": "宗教、職業及類似組織",
+          "label": "Religious, Occupational and Similar Organizations",
+          "parent_value": "S",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "S95",
+          "industry_name": "個人及家庭用品維修業",
+          "label": "Personal and Household Goods Repair Industry",
+          "parent_value": "S",
+          "children": []
+        },
+        {
+          "level": 2,
+          "value": "S96",
+          "industry_name": "未分類其他服務業",
+          "label": "Other services not classified",
+          "parent_value": "S",
+          "children": []
+        }
+      ]
+    }
+  ]

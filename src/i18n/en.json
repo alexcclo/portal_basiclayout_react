@@ -1,0 +1,87 @@
+{
+  "Global":
+    {
+      "member_center": "Member Center"
+    },
+  "Header":
+    {
+      "login": "Login",
+      "sign_up": "Sign Up"
+    },
+  "Menu":
+    {
+      "my_account": "My Account",
+      "profile": "Profile",
+      "manage_users": "Manage Users",
+      "change_password": "Change Password",
+      "subscriptions": "Subscriptions",
+      "stored_points": "Stored Points",
+      "billing": "Billing",
+      "vouchers": "Vouchers",
+      "my_reviews": "My Reviews",
+      "notifications": "Notifications"
+    },
+  "Login": 
+    {
+      "login": "Login",
+      "forgot_password": "Forgot Password?",
+      "new_to__app_market": "New to  App Market? ",
+      "create_a_new_account": "Create a New Account",
+      "password": "Password"
+    },
+  "Register":
+    {
+      "back": "Back",
+      "next": "Next",
+      "create_account": "Create Account",
+      "company_info": "Company Info",
+      "member_info": "Member Info",
+      "success": "Success",
+      "company_name": "Company Name",
+      "company_name_english": "Company Name (ENG)",
+      "tax_id_number": "Tax ID Number",
+      "duns_number": "D-U-N-S Number",
+      "company_scale": "Company Scale",
+      "industry": "Industry",
+      "company_address": "Company Address",
+      "country_region": "Country/Region",
+      "state_district": "State/District",
+      "city": "City",
+      "postal_code": "Postal Code",
+      "address": "Address"
+    },
+  "Subscription":
+    {
+      "all": "All",
+      "applying": "申請中!",
+      "quoted": "已報價!",
+      "pending_payment": "待付款!",
+      "paid": "已付款!",
+      "activated": "Activated",
+      "terminated": "已停用!",
+      "cancelled": "已取消!",
+      "search": "Search",
+      "search_your_subscription": "Search your subscription",
+      "Card": 
+        {
+          "authentication_settings": "Authentication Settings",
+          "view_billing_information": "View Billing Information",
+          "subscribe": "Subscribe",
+          "cancel_subscription": "Cancel Subscription",
+          "activated": "Activated",
+          "by":"by",
+          "manage_on_provider": "Manage on Provider",
+          "back_to_subscription": "Back to Subscription",
+          "actions": "Actions"
+        },
+      "Detail": 
+        {
+          "overview": "Overview",
+          "pricing": "Pricing",
+          "details_and_support": "Details + Support",
+          "ratings_and_reviews": "Ratings + Reviews",
+          "product_overview": "Product Overview",
+          "preview": "Preview"
+        }
+    }
+}
